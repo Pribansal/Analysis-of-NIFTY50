@@ -1,4 +1,4 @@
-# Prject Title : Analysis-of-NIFTY50
+# Project Title : Analysis-of-NIFTY50
 
 ## Project Overview:
 The NIFTY50 index is a benchmark stock market index representing the top 50 companies listed on the National Stock Exchange (NSE) of India. This project analyzes historical data of the NIFTY50 index from 2000 to 2021, aiming to derive meaningful insights into market trends, volatility, and the performance of key sectors over time. 
